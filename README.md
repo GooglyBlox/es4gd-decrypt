@@ -61,4 +61,4 @@ if __name__ == "__main__":
     print(decrypt_save(encrypted))
 ```
 
-Run it and you'll see the plaintext shown above. For a more robust implementation that handles all cases correctly, see `codec.py`.
+Run it and you'll see the plaintext shown above. For a more robust implementation that handles all cases correctly, see [`codec.py`](https://github.com/GooglyBlox/es4gd-decrypt/blob/master/codec.py).
